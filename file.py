@@ -16,5 +16,7 @@ canciones = [
 canciones_ordenadas = sorted(canciones)
 
 # Imprimir la lista ordenada
+i = 1
 for cancion in canciones_ordenadas:
-    print(cancion)
+    print(f"{cancion} + {i}")
+    i += 1
