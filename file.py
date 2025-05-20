@@ -13,7 +13,7 @@ canciones = [
 ]
 
 # Ordenar la lista en orden ascendente (alfabético)
-canciones_ordenadas = sorted(canciones)
+canciones_ordenadas = sorted(canciones)[::-1]
 
 # Imprimir la lista ordenada
 i = 1

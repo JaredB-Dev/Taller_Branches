@@ -2,3 +2,4 @@
 Optional Description
 
 <img src"resultado_lider.png">
+<img src = "resultado2.png">
