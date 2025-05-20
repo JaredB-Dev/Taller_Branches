@@ -1,8 +1,8 @@
 # Lista de las 10 mejores canciones
 canciones = [
-    "Bohemian Rhapsody - Queen",
-    "Imagine - John Lennon",
-    "Stairway to Heaven - Led Zeppelin",
+    "Queen - Bohemian Rhapsody",
+    "John Lennon - Imagine",
+    "Led Zeppelin - Stairway to Heaven",
     "Hey Jude - The Beatles",
     "Smells Like Teen Spirit - Nirvana",
     "Hotel California - Eagles",
