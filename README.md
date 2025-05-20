@@ -2,7 +2,7 @@
 Optional Description
 
 ## Primer resultado
-<img src = "resultados/resultado1.png" width ="300px" height = "300px">
+<img src = "resultados/resultado1.png" width ="300px" height = "300px"><br>
 
 ## Segundo resultado
 <img src = "resultados/resultado1.png">
