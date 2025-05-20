@@ -15,7 +15,7 @@ canciones = [
     "Sweet Child O' Mine - Guns N' Roses",
     "Wonderwall - Oasis"
 ]
-
+info = "Esta es una lista de las 10 mejores canciones de todos los tiempos. Las canciones están ordenadas alfabéticamente y se les asigna un número de índice."
 # Ordenar la lista en orden ascendente (alfabético)
 canciones_ordenadas = sorted(canciones)[::-1]
 
@@ -24,3 +24,5 @@ i = 1
 for cancion in canciones_ordenadas:
     print(f"{cancion} + {i} *_*")
     i += 1
+
+print(info)
